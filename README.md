@@ -1,1 +1,3 @@
-# LZXToolkit
+LZX Toolkit
+
+LZX Toolkit library.
